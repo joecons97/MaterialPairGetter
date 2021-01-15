@@ -1,0 +1,9 @@
+{
+    "Name": "MaterialPairGetter",
+    "Description": "Casts a ray forward and prints the GUID for the hit object's material pair",
+    "Version": "1.0.0",
+    "HasVeniceEXT": true,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    }
+}
